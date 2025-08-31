@@ -2,7 +2,7 @@
 
 This file provides comprehensive guidance to Claude Code when working with Python code in this repository.
 
-## Core Development Philosophy
+## Backend Development Philosophy
 
 ### KISS (Keep It Simple, Stupid)
 

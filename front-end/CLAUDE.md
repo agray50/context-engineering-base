@@ -1,8 +1,8 @@
-# CLAUDE_TYPESCRIPT_REACT.md
+# CLAUDE.md
 
 This file provides comprehensive guidance to Claude Code when working with TypeScript and React code in this repository.
 
-## Core Development Philosophy
+## Frontend Development Philosophy
 
 ### KISS (Keep It Simple, Stupid)
 
